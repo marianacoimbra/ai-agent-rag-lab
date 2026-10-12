@@ -1,0 +1,6 @@
+datasets
+numpy
+sentence-transformers
+ollama
+pytest
+pydantic-ai-slim[openai]
